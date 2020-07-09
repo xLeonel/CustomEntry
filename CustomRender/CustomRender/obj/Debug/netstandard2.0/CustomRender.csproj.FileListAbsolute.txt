@@ -1,0 +1,14 @@
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\bin\Debug\netstandard2.0\CustomRender.deps.json
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\bin\Debug\netstandard2.0\CustomRender.dll
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\bin\Debug\netstandard2.0\ref\CustomRender.dll
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\bin\Debug\netstandard2.0\CustomRender.pdb
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\obj\Debug\netstandard2.0\CustomRender.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\obj\Debug\netstandard2.0\CustomRender.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\obj\Debug\netstandard2.0\CustomRender.AssemblyInfo.cs
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\obj\Debug\netstandard2.0\CustomRender.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\obj\Debug\netstandard2.0\CustomRender.dll
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\obj\Debug\netstandard2.0\ref\CustomRender.dll
+C:\Users\vitor\Desktop\testaa\CustomRender\CustomRender\obj\Debug\netstandard2.0\CustomRender.pdb

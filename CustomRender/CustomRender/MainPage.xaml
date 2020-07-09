@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:customrender="clr-namespace:CustomRender"
+             mc:Ignorable="d"
+             x:Class="CustomRender.MainPage"
+             Title="teste"
+             >
+    <StackLayout BackgroundColor="#302f2f">
+        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" WidthRequest="300">
+            <Label Text="Usuário" FontSize="20" FontAttributes="Bold"></Label>
+            <customrender:CustomEntry BackgroundColor="Transparent"  BorderWidth="2" BorderColor="Aqua" TextPadding="30" Placeholder="sadasd"></customrender:CustomEntry>
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>
